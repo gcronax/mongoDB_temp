@@ -1,0 +1,201 @@
+[
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f526"
+  },
+  "consumo": 6,
+  "marca": "Toyota",
+  "hp": 139,
+  "id_coche": 1,
+  "modelo": "Corolla"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f527"
+  },
+  "consumo": 7.2,
+  "marca": "Honda",
+  "hp": 158,
+  "id_coche": 2,
+  "modelo": "Civic"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f528"
+  },
+  "consumo": 7.5,
+  "marca": "Ford",
+  "hp": 150,
+  "id_coche": 3,
+  "modelo": "Focus"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f529"
+  },
+  "consumo": 6.7,
+  "marca": "Audi",
+  "hp": 190,
+  "id_coche": 4,
+  "modelo": "A3"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f52a"
+  },
+  "consumo": 5.6,
+  "marca": "Ford",
+  "hp": 120,
+  "id_coche": 5,
+  "modelo": "Fiesta"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f52b"
+  },
+  "consumo": 6.4,
+  "marca": "Volkswagen",
+  "hp": 150,
+  "id_coche": 6,
+  "modelo": "Golf"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f52c"
+  },
+  "consumo": 6.8,
+  "marca": "Peugeot",
+  "hp": 130,
+  "id_coche": 7,
+  "modelo": "308"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f52d"
+  },
+  "consumo": 6.2,
+  "marca": "Seat",
+  "hp": 140,
+  "id_coche": 8,
+  "modelo": "León"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f52e"
+  },
+  "consumo": 6.5,
+  "marca": "Mazda",
+  "hp": 145,
+  "id_coche": 9,
+  "modelo": "Mazda3"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f52f"
+  },
+  "consumo": 7.1,
+  "marca": "Ford",
+  "hp": 180,
+  "id_coche": 10,
+  "modelo": "Kuga"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f530"
+  },
+  "consumo": 5,
+  "marca": "Toyota",
+  "hp": 110,
+  "id_coche": 11,
+  "modelo": "Yaris"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f531"
+  },
+  "consumo": 6.3,
+  "marca": "Citroën",
+  "hp": 160,
+  "id_coche": 12,
+  "modelo": "C5"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f532"
+  },
+  "consumo": 7,
+  "marca": "BMW",
+  "hp": 170,
+  "id_coche": 13,
+  "modelo": "X1"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f533"
+  },
+  "consumo": 8.5,
+  "marca": "BMW",
+  "hp": 245,
+  "id_coche": 14,
+  "modelo": "Z4"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f534"
+  },
+  "consumo": 10,
+  "marca": "Audi",
+  "hp": 450,
+  "id_coche": 15,
+  "modelo": "RS4"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f535"
+  },
+  "consumo": 12,
+  "marca": "Ford",
+  "hp": 450,
+  "id_coche": 16,
+  "modelo": "Mustang"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f536"
+  },
+  "consumo": 9.8,
+  "marca": "Porsche",
+  "hp": 300,
+  "id_coche": 17,
+  "modelo": "Cayenne"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f537"
+  },
+  "consumo": 7,
+  "marca": "Audi",
+  "hp": 310,
+  "id_coche": 18,
+  "modelo": "S3"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f538"
+  },
+  "consumo": 7.3,
+  "marca": "Audi",
+  "hp": 220,
+  "id_coche": 19,
+  "modelo": "Q3"
+},
+{
+  "_id": {
+    "$oid": "692f0b5fec39fc19c058f539"
+  },
+  "consumo": 3.3,
+  "marca": "marc",
+  "hp": 33,
+  "id_coche": 20,
+  "modelo": "mod"
+}]
